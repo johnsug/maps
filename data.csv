@@ -3,13 +3,16 @@ Bountiful,40.889390,-111.880771,Residence
 Ogden,41.223000,-111.973830,Visit
 Bear Lake,42.029924,-111.332197,Visit
 Provo,40.233844,-111.658534,Visit
+Vernal,40.451704,-109.53796,Visit
+Uinta Mountains,40.766667,-110.583333,Visit
+Park City,40.645239,-111.505439,Visit
+Moab,38.57464,-109.551528,Visit
 Six Flags,34.456151,-118.571382,Visit
 Nottsberry Farm,33.867404,-117.998139,Visit
 Star Valley,42.971389,-110.955556,Visit
 Jackson Hole,43.479929,-110.762428,Visit
 Pamona,34.055103,-117.749991,Visit
 Las Vegas,36.169941,-115.139830,Visit
-Toronto,43.677718,-79.624820,Airport
 Windsor,42.314937,-83.036363,Residence
 London,42.984923,-81.245277,Visit
 Chatham,42.404803,-82.191038,Visit
@@ -31,7 +34,6 @@ Blackfoot,43.190471,-112.344977,Visit
 Albuquerque,35.085334,-106.605553,Visit
 Amarillo,35.221997,-101.831297,Visit
 Lewisville,33.046233,-96.994174,Residence
-The Colony,33.080608,-96.892831,Residence
 Lubbock,33.577863,-101.855166,Visit
 St. George,37.096528,-113.568416,Visit
 Phoenix,33.448377,-112.074037,Visit
@@ -45,6 +47,7 @@ Rockville,39.083997,-77.152758,Visit
 Nashville,36.162664,-86.781602,Visit
 Birmingham,33.520661,-86.802490,Visit
 St. Paul,44.953703,-93.089958,Interview
+Ellijay,34.691324,-84.48392,Visit
 San Antonio,29.424122,-98.493628,Interview
 Chattanooga,35.045630,-85.309680,Visit
 Louisville,38.252665,-85.758456,Interview
@@ -54,6 +57,7 @@ Columbia,38.951705,-92.334072,Visit
 Olathe,38.881396,-94.819128,Residence
 Lawrence,38.971669,-95.235250,Visit
 St.Louis,38.627003,-90.199404,Visit
+Gatlinburg,35.724929,-83.493637,Visit
 San Francisco,37.774929,-122.419416,Visit
 Lees Summit,38.910841,-94.382172,Residence
 Indianapolis,39.768403,-86.158068,Interview
@@ -63,7 +67,6 @@ Princeton,40.357298,-74.667223,Interview
 Chicago,41.878114,-87.629798,Visit
 Berkeley,37.871593,-122.272747,Visit
 LAX,33.941589,-118.408530,Airport
-Olvie Branch,34.961760,-89.829532,Visit
 Memphis,35.149534,-90.048980,Visit
 Boston,42.360082,-71.058880,Visit
 Ann Arbor,42.280826,-83.743038,Visit
